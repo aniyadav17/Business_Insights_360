@@ -191,15 +191,15 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply chain.gif](https://github.com/aniyadav17/Business_Insights_360/blob/main/resources/supply%20chain.gif)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive.gif](https://github.com/aniyadav17/Business_Insights_360/blob/main/resources/Executive.gif)
 
 ## Products
 
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
+![Products](https://github.com/aniyadav17/Business_Insights_360/blob/main/resources/Products%20View.gif)
 
 you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
 
